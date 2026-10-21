@@ -1,0 +1,13 @@
+scenarioKinds:
+- id: primary
+  name: Primary
+  description: The usual successful path.
+- id: alternate
+  name: Alternate
+  description: Another supported path or result.
+- id: validation
+  name: Validation
+  description: Input or operating conditions prevent completion.
+- id: edge
+  name: Edge
+  description: An unavailable dependency, interruption or boundary condition.
